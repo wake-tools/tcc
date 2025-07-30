@@ -1,9 +1,9 @@
 > ⚠️ This is a customized fork of Tiny C Compiler 0.9.28rc, maintained by [Wake.Tools](https://wake.tools), for integration into the Wake runtime.
->
-> The build system used is internal and not included, but the code remains compatible with standard TCC build instructions.
+
+> While this fork is built internally for Wake.Tools, it remains compatible with the original TCC build process and is fully usable within the Wake environment.
 > For full documentation, build details, and original sources, see the upstream repository:  
 > 👉 https://github.com/TinyCC/tinycc
->
+
 > © 2025 Majify Technologies.  
 > This fork is distributed under the terms of the LGPL v2.1.
 
